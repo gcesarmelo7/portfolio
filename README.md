@@ -11,4 +11,4 @@ For this example project I built a ball classifier to identify balls from differ
 
 I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
 
-![](/images/matrix_results.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-1CUCGde4veHpopZTtE-RjHu1XFlZ2xqxg&usqp=CAU)
