@@ -15,13 +15,11 @@
 * Divisão do Dashboard em relação aos insumos (farinha e óleo) bem como os turnos e colaboradores;
 * Criação de gráficos interativos para análise do engenheiro responsável e posteriormente para a coordenação.
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-1CUCGde4veHpopZTtE-RjHu1XFlZ2xqxg&usqp=CAU)
-
-# [Análise/Ciência de dados - Python/PowerBI: Previsão de faturamento por séries temporais e dashboard gerencial]
+# [Análise/Ciência de dados - Python/Pandas/AutoGluon/PowerBI: Previsão de faturamento por séries temporais e dashboard gerencial]
 * Coordenação do projeto solicitou uma análise preditiva de vendas por meio de modelos de Machine Learning;
 * Utilizado as bibliotecas
 
-# [Ciência de dados/Autamação - VSCode/Python/PyautoGUI/BotCity: Automação de dispensação de medicamentos em Unidade de Pronto Atendimento - UPA]
+# [Ciência de dados/Autamação - VSCode/Python/PyAutoGUI: Automação de dispensação de medicamentos em Unidade de Pronto Atendimento - UPA]
 * Para a maior agilidade da dispensação de medicamentos, foi criado código para que algumas dispensações mais comuns pudessem ser realizadas de forma automática;
 * Redução da utilização do fator humano para realização de tarefa repetitiva.
 
