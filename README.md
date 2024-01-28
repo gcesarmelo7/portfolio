@@ -6,7 +6,7 @@
 - Data Scientist Expert	| Dinâmica Group - DNC (_2023_)	 			        		
 - Ciências Farmacêuticas | Universidade de Ribeirão Preto - UNAERP (_2019_)
 
-## Work Experience
+## Experiência na Indústria
 **Farmacêutico @ Grupo Innovare (_Dezembro 2022 - Atual_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
