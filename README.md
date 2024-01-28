@@ -13,4 +13,4 @@ I was able to get the model to predict the sport of the ball with 94% accuracy a
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-1CUCGde4veHpopZTtE-RjHu1XFlZ2xqxg&usqp=CAU)
 
-![](https://giphy.com/embed/n8x2aZCaCXAQEW6MKR)
+<img src="{{site.baseurl | prepend: site.url}}movies/zigzag.gif" alt="zigzag" />
