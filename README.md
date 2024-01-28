@@ -4,7 +4,7 @@
 * Criado um dashboard dinâmico onde o gestor consiga avaliar item a item desejado para melhor gestão do estoque da farmácia;
 * O dashboard foi dividido em materiais e medicamentos por dispensação;
 
-![](/images/positions_by_state.png)
+![]("C:\Users\SOFFNER\Desktop\Captura de tela 2024-01-28 105558.png")
 
 # [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
 For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
