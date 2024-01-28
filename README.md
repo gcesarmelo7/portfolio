@@ -15,4 +15,4 @@ I was able to get the model to predict the sport of the ball with 94% accuracy a
 
 ![](<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/n8x2aZCaCXAQEW6MKR" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cute-aww-eyebleach-n8x2aZCaCXAQEW6MKR">via GIPHY</a></p>)
 
-![](<iframe src="https://giphy.com/embed/n8x2aZCaCXAQEW6MKR" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-aww-eyebleach-n8x2aZCaCXAQEW6MKR">)
+![](https://giphy.com/embed/n8x2aZCaCXAQEW6MKR)
