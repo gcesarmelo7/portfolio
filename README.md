@@ -14,10 +14,11 @@
 
 ## Análise de dados - PowerBI: Dashboard para indústria do ramo alimentício
 
-
 * Sponsor do projeto freelancer solicitou um relatório onde tivesse em detalhes os setores da indústria, a produtividade dos turnos e o aproveitamento das matérias-primas;
 * Divisão do Dashboard em relação aos insumos (farinha e óleo) bem como os turnos e colaboradores;
 * Criação de gráficos interativos para análise do engenheiro responsável e posteriormente para a coordenação.
+
+<iframe src="https://giphy.com/embed/fzgxmwaYyEJGIx4rSh" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fzgxmwaYyEJGIx4rSh">via GIPHY</a></p>
 
 ## Análise/Ciência de dados - Python/Pandas/AutoGluon/PowerBI: Previsão de faturamento por séries temporais e dashboard gerencial
 
