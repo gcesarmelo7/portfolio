@@ -8,6 +8,7 @@
 * Criado um dashboard dinâmico e interativo para análise da diretoria referente aos itens de maiores/menores consumo, auxiliando assim na gestão e melhor controle do estoque;
 * O dashboard foi dividido em materiais e medicamentos por dispensação.
 
+<iframe src="https://giphy.com/embed/F2BXT5HEqWx3SBWRgJ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/F2BXT5HEqWx3SBWRgJ">via GIPHY</a></p>
 
 ![]()
 
@@ -20,7 +21,7 @@
 
 ## Análise/Ciência de dados - Python/Pandas/AutoGluon/PowerBI: Previsão de faturamento por séries temporais e dashboard gerencial
 
-<iframe src="https://giphy.com/embed/NR0USz0kvHQ1sT6RBO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NR0USz0kvHQ1sT6RBO">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/7L1QDWa7hfn4hD7X1H" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7L1QDWa7hfn4hD7X1H">via GIPHY</a></p>
 
 * Coordenação do projeto solicitou uma análise preditiva de vendas por meio de modelos de Machine Learning;
 * Utilizado as bibliotecas
